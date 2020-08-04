@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Spotify dev API is used to fetch the user content. 
+This app makes use of context api as data layer.
 
 ## Available Scripts
 
